@@ -1,6 +1,8 @@
 ![Research Tools On Demand][title]
 
-<center><img src="dsl-logo.jpg"></center>
+
+<div style="text-align:center"><img src="dsl-logo.jpg" /></div>
+
 
 Using docker containers run through a Portainer interface, the Digital Scholarship Lab offers a variety of tools for collecting, analyzing, and presenting your data that are not offered anywhere else on campus!
 
