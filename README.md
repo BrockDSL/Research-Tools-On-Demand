@@ -7,6 +7,7 @@ These containers are en excellent place to conduct command line level processes 
 Currently we support:
 
 - Active Twitter harvesting via the TWARC tool
+  - See more on our TWARC page [here!](https://brockdsl.github.io/TWARC_Case_Study/)
 
 - Temporary Linux environments to run tests in
 
