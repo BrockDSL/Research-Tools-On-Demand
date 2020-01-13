@@ -18,6 +18,9 @@ Currently we support:
 
 ![WordPress Logo][wordpress]
 
+Active Collaborations using RTOD
+
+- Working with the Center for Sports Capacity on the upcoming Niagara Sports Database.  More information on this collaboration can be found [here](https://brockdsl.github.io/Niagara_Sport_Database/)
 
 For other ideas, or help on your projects, come visit us in the Rankin Family Pavilion at Brock University or e-mail us at DSL@Brocku.ca.
 
